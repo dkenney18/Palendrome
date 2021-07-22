@@ -5,4 +5,4 @@ function pCheck(sentance) {
   return og == reversed
 }
 
-console.log(pCheck("racecar""))
+console.log(pCheck("racecar"))
